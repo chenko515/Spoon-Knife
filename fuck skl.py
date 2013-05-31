@@ -1,11 +1,13 @@
-'''Created by chenko515 with python3.0
+#!/usr/bin/python3
+
+'''Created by chenko515 with python3
 '''
 
 def fuck1():
 	print("fuck 1")
 
-def fuck2():
-	print("fuck 2")
+def fuck_skl():
+	print("fuck skl")
 
 def fuck3():
 	print("fuck 3")
