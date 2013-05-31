@@ -12,3 +12,6 @@ def fuck3():
 	
 def fuck4():
 	print("fuck 4")
+
+def fuck5():
+	print("fuck 5")
