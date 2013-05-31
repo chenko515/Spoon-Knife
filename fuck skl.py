@@ -1,4 +1,4 @@
-'''Created by chenko515 on python3
+'''Created by chenko515 with python3
 '''
 
 def fuck1():
