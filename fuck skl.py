@@ -10,10 +10,10 @@ def fuck2():
 	print("fuck 2")
 
 def fuck3():
-	print("fuck 3")
+	print("fuck chenko515")
 	
 def fuck4():
 	print("fuck 4")
 
 def fuck5():
-	print("fuck 5")
+	print("fuck skl")
