@@ -16,4 +16,4 @@ def fuck4():
 	print("fuck 4")
 
 def fuck5():
-	print("fuck yyq")
+	print("fuck skl")
